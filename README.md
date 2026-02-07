@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @philgarnier
+- 👋 Hi, I’m @philippegarnier
 
 <!--- 
-philemvista/philemvista is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+philemvista/philippegarnier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
